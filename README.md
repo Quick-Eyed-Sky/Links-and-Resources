@@ -14,6 +14,12 @@ A blog exploring creative patterns across disciplines — how composers, painter
 
 AI-made images, clips, and tutorials focused on Stable Diffusion and AI art techniques — practical, hands-on guidance for anyone getting into AI-generated visuals. Companion content (advanced tips and prompts) is also shared via Patreon.
 
+## 🎱 Prankster Pool
+
+**[quick-eyed-sky.github.io/Billiard](https://quick-eyed-sky.github.io/Billiard/)**
+
+A pool table in the browser that looks perfectly normal, until it isn't. Twenty-two switchable "mutations" — pockets that shy away, a referee who swears nothing happened, a VCR that rewinds your best shot — and a *Prank a friend* button that sends someone an ordinary-looking table whose pranks start on their second shot. The code lives in [Billiard](https://github.com/Quick-Eyed-Sky/Billiard).
+
 ---
 
 More Mac apps and tools: see [ModernJView](https://github.com/Quick-Eyed-Sky/ModernJView).
