@@ -16,9 +16,9 @@ AI-made images, clips, and tutorials focused on Stable Diffusion and AI art tech
 
 ## 🎱 Prankster Pool
 
-**[quick-eyed-sky.github.io/Billiard](https://quick-eyed-sky.github.io/Billiard/)**
+**[quick-eyed-sky.github.io/prankster-pool](https://quick-eyed-sky.github.io/prankster-pool/)**
 
-A pool table in the browser that looks perfectly normal, until it isn't. Twenty-two switchable "mutations" — pockets that shy away, a referee who swears nothing happened, a VCR that rewinds your best shot — and a *Prank a friend* button that sends someone an ordinary-looking table whose pranks start on their second shot. The code lives in [Billiard](https://github.com/Quick-Eyed-Sky/Billiard).
+A pool table in the browser that looks perfectly normal, until it isn't. Twenty-two switchable "mutations" — pockets that shy away, a referee who swears nothing happened, a VCR that rewinds your best shot — and a *Prank a friend* button that sends someone an ordinary-looking table whose pranks start on their second shot. The code lives in [prankster-pool](https://github.com/Quick-Eyed-Sky/prankster-pool).
 
 ---
 
